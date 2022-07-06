@@ -1,0 +1,4 @@
+[submodule "diegoabt/public"]
+	path = diegoabt/public
+	url = https://github.com/diegoabt/diegoabt.github.io.git
+	branch = main
